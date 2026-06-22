@@ -25,7 +25,7 @@
 
 
 // console.log(`Informe um numero: `);
-// n1= 199;
+// n1= 4;
 // restP = n1%2;
 // if (restP===0){
 

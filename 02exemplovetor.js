@@ -88,12 +88,14 @@
 //     console.log(`Posição ${cont}: ${num}`)
 // })
 
-let numeros = [10, 25, 37, 42, 58]
-let soma = 0
-let media = 0
-for (let num of numeros) {
-    soma += num
-}
-media = soma / 5
-console.log(`Soma total: ${soma}`)
-console.log(`Média: ${media}`)
+// let numeros = [10, 25, 37, 42, 58]
+// let soma = 0
+// let media = 0
+// for (let num of numeros) {
+//     soma += num
+// }
+// media = soma / 5
+// console.log(`Soma total: ${soma}`)
+// console.log(`Média: ${media}`)
+
+

@@ -50,9 +50,16 @@
 
 // }
 // while(cont <= 200)
-acum = 1
- for (cont = 1000; cont <= 1500; cont++){
-    if (cont % 2 == 1)
-        acum +=1
- }
- console.log(`A soma de todos os números de 1000 a 1500 é de ${acum}`)
+// acum = 1
+//  for (cont = 1000; cont <= 1500; cont++){
+//     if (cont % 2 == 1)
+//         acum +=1
+//  }
+//  console.log(`A soma de todos os números de 1000 a 1500 é de ${acum}`)
+
+function exibirData(){
+    console.log(new Date().toLocaleDateString());
+}
+exibirData();
+exibirData();
+exibirData();
